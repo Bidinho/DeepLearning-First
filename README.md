@@ -23,10 +23,7 @@ img_class_autodiff.py
   logistic regression and the multi-layer perceptron, with implementation in
   torch.
 
-
-
-
-Installation:
+## Installation:
 ```bash
 pip install -r requirements.txt
 ```
