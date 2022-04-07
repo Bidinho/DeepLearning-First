@@ -26,5 +26,6 @@ img_class_autodiff.py
 ## Installation:
 ```bash
 pip install -r requirements.txt
+python3 download_fashion_mnist.py
 ```
 
